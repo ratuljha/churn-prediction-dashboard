@@ -10,9 +10,11 @@ This dashboard bridges machine learning models with business stakeholders. Reten
 - Explore high-risk customer segments and cohort patterns across the entire subscriber base
 - Download filtered customer segments for proactive retention outreach
 
-## Live Demo
+## Live Demo & Application Preview
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io) *(Deployable on Streamlit Community Cloud with 1 click)*
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churn-prediction-dashboard-ratuljha.streamlit.app) *(Streamlit Community Cloud)*
+
+![Customer Churn Dashboard Preview](outputs/screenshots/dashboard_preview.png)
 
 ## Tech Stack
 
